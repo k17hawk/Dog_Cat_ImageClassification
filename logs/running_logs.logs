@@ -1,0 +1,21 @@
+[2022-11-03 17:44:35,441: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2022-11-03 17:44:35,458: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-11-03 17:44:35,466: INFO: common]: created directory at: artifacts
+[2022-11-03 17:44:35,469: INFO: common]: created directory at: artifacts/data_ingestion
+[2022-11-03 20:21:04,225: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2022-11-03 20:21:04,240: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-11-03 20:21:04,246: INFO: common]: created directory at: artifacts
+[2022-11-03 20:21:04,251: INFO: common]: created directory at: artifacts/data_ingestion
+[2022-11-03 20:25:16,782: INFO: stg1_data_ingestion]: >>>>>> stage Data Ingestion stage started <<<<<<
+[2022-11-03 20:25:16,797: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2022-11-03 20:25:16,802: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-11-03 20:25:16,804: INFO: common]: created directory at: artifacts
+[2022-11-03 20:25:16,806: INFO: common]: created directory at: artifacts/data_ingestion
+[2022-11-03 20:25:16,807: INFO: data_ingestion]: Trying to download file...
+[2022-11-03 20:25:16,809: INFO: data_ingestion]: File already exists of size: ~ 805554 KB
+[2022-11-03 20:25:16,810: INFO: data_ingestion]: unzipping file and removing unawanted files
+[2022-11-03 20:25:19,267: INFO: data_ingestion]: removing file:artifacts/data_ingestion\PetImages/Cat/666.jpg of size: ~ 0 KB
+[2022-11-03 20:25:20,517: INFO: data_ingestion]: removing file:artifacts/data_ingestion\PetImages/Dog/11702.jpg of size: ~ 0 KB
+[2022-11-03 20:25:23,035: INFO: stg1_data_ingestion]: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x
