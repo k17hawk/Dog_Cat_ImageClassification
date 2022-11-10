@@ -3,4 +3,5 @@ from deeplearning.entity.config_entity import (
     PrepareBaseModelConfig,
     PrepareCallbacksConfig,
     TrainingConfig,
+    EvaluationConfig,
 )

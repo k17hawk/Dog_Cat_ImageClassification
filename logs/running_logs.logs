@@ -71,3 +71,23 @@ x==========x
 [2022-11-06 13:11:20,589: INFO: common]: created directory at: artifacts\prepare_callbacks\checkpoint_dir
 [2022-11-06 13:11:20,592: INFO: common]: created directory at: artifacts\prepare_callbacks\tensorboard_log_dir
 [2022-11-06 13:11:20,598: INFO: common]: created directory at: artifacts\training
+[2022-11-10 07:43:13,604: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2022-11-10 07:43:13,623: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-11-10 07:43:13,629: INFO: common]: created directory at: artifacts
+[2022-11-10 07:47:26,247: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2022-11-10 07:47:26,257: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-11-10 07:47:26,262: INFO: common]: created directory at: artifacts
+[2022-11-10 07:52:57,920: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2022-11-10 07:52:57,933: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-11-10 07:52:57,938: INFO: common]: created directory at: artifacts
+[2022-11-10 07:58:51,328: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2022-11-10 07:58:51,348: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-11-10 07:58:51,358: INFO: common]: created directory at: artifacts
+[2022-11-10 08:01:20,407: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2022-11-10 08:01:20,416: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-11-10 08:01:20,422: INFO: common]: created directory at: artifacts
+[2022-11-10 09:37:58,247: INFO: stg4_evaluation]: *******************
+[2022-11-10 09:37:58,256: INFO: stg4_evaluation]: >>>>>> stage Evaluation started <<<<<<
+[2022-11-10 09:37:58,289: INFO: common]: yaml file: configs\config.yaml loaded successfully
+[2022-11-10 09:37:58,325: INFO: common]: yaml file: params.yaml loaded successfully
+[2022-11-10 09:37:58,338: INFO: common]: created directory at: artifacts

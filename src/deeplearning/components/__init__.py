@@ -2,3 +2,4 @@ from deeplearning.components.data_ingestion import DataIngestion
 from deeplearning.components.prepare_base_model import PrepareBaseModel
 from deeplearning.components.prepare_callBack import PrepareCallback
 from deeplearning.components.Training import Training
+from deeplearning.components.evaluation import Evaluation
